@@ -470,17 +470,14 @@ imap jj <ESC>
 " leader 键为空格
 let mapleader = "\<Space>"
 
-"写入 <Space> w
+"写入 leader w
 map <silent> <leader>w <ESC>:update<CR>
-noremap <silent> <leader>w :update<CR>
-inoremap <silent> <leader>w <ESC>:update<CR>
 
-"退出 <Space> q
+"退出 leader q
 map <silent> <leader>q <ESC>:quit<CR>
 
 " python 运行
 autocmd FileType python map <buffer> <leader>r :w<CR>:exec '!python' shellescape(@%, 1)<CR>
-autocmd FileType python imap <buffer> <leader>r <esc>:w<CR>:exec '!python' shellescape(@%, 1)<CR>
 
 " Neo format
 " Enable alignment
