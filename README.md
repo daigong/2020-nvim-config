@@ -7,6 +7,8 @@ brew install isort
 
 brew install ack
 
+brew install ctags-exuberant
+
 
 pip install pynvim flake8 isort
 

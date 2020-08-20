@@ -492,3 +492,6 @@ let g:neoformat_basic_format_trim = 1
 
 " 格式化代码
 map <silent> <leader>f <ESC>:Neoformat<CR>
+
+" macos ctags 问题
+let g:Tlist_Ctags_Cmd='/usr/local/Cellar/ctags/5.8_1/bin/ctags'
