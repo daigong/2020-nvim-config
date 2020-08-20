@@ -1,0 +1,44 @@
+print(numpy.__version__),V
+,V
+#,v
+2,v
+        showImg(img_opening),V
+        showImg(img_thresh),V
+0,v
+        import ipdb; ipdb.set_trace(),V
+                    print(rect),V
+                    showImg(oldimg),V
+                    oldimg = cv2.drawContours(oldimg, [box], 0, (0, 0, 255), 2),V
+                if DEBUG:,V
+                import ipdb; ipdb.set_trace(),V
+                showImg(card_img),V
+d,v
+l,v
+o,v
+        showImg(img_edge2),V
+        showImg(img_edge1),V
+        showImg(img_edge),V
+        showImg(img),V
+    #r, roi, color = c.predict("1.jpeg")    r, roi, color = c.predict("1.jpg"),V
+e,v
+    #r, roi, color = c.predict("1.jpeg"),V
+j,v
+s,v
+            import ipdb; ipdb.set_trace(),V
+            showImg(card_img),V
+                showImg(car_),V
+                print("负角度"),V
+                    cv2.waitKey(),V
+                    cv2.imshow("edge4", oldimg),V
+                    oldimg = cv2.drawContours(oldimg, [box], 0, (0, 0, 255), 2)                    cv2.imshow("edge4", oldimg)                    cv2.waitKey(),V
+        #by daigong,V
+        cv2.imshow("img",img),V
+\,v
+    import ipdb; ipdb.set_trace(),V
+#!/,v
+aa w,V
+aa s,V
+                            print(files),V
+                            print(root),V
+                print(samples),V
+	,V
